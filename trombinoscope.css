@@ -1,0 +1,47 @@
+body
+{
+    /* background-color: rgba(55, 55, 197, 0.555); */
+    background-image: url(images/fond-d-ecran.jpg);
+}
+
+h1
+{
+    text-align: center;
+    font-family: cursive;
+    
+}
+
+form
+{
+    background-color: rgb(223, 158, 201);
+    text-align: center;
+    border : 2px dotted rgb(238, 104, 104);
+    font-family: cursive;
+    empty-cells: hide;
+    margin: auto 300px;
+ 
+}
+
+.decors
+{
+    background-color: rgb(178, 122, 230);
+    display: flex;
+    flex-direction: column;
+    font-size: large;
+    text-align: center;
+    margin: auto 100px;
+   
+}
+
+td>img
+{
+    text-align: center;
+    width: 100px;
+    height: 100px;
+}
+
+
+tr
+{
+    border: none;
+}
